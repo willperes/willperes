@@ -1,5 +1,5 @@
 <h1 align='center'>Hi there 👋, I'm Willian</h1>
-<h2 align='center'>I am a front-end developer.</h2>
+<h3 align='center'>I am a front-end developer.</h3>
 <div align='center'>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/willian-peres-de-oliveira/)](https://www.linkedin.com/in/willian-peres-de-oliveira/) 
