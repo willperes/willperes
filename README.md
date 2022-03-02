@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning React.JS, as well as improving my JavaScript skills.<br>
 - 📖 Currently taking React.JS lessons in RocketSeat.<br>
-- 🔭 I am looking for a internship in front-end development
 
 <br>
 
