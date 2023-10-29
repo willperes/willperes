@@ -1,6 +1,4 @@
-# Willian Peres
-
-👋 Hello, I'm Willian!
+# 👋 Hello there, I'm Willian!
 
 I'm a Full Stack Developer based in Brazil, currently working remotely. I have almost 2 years of experience in the industry and have been working as a Full Stack Developer at Frexco since early 2022. My role involves developing microservices for vital e-commerce platform functionalities using TypeScript and NestJS, along with PostgreSQL and RabbitMQ. I also work on front-end development for both web and mobile applications, using React Native and ReactJS. I also have some experience with code review and deploying apps to the Play Store and App Store.
 
