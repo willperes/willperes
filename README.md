@@ -8,7 +8,9 @@
 
 ## Summary
 
-Mobile and Frontend Developer with more than 2 years of hands-on experience in mobile development using React Native, experienced in Firebase integration and crash/performance monitoring, and web development with ReactJS and NextJS. I have created and published an e-commerce app using React Native from scratch with more than 5000 users. I also have experience with backend development using NodeJS along with the framework NestJS.
+Mobile and Frontend Developer with more than 2 years of hands-on experience in mobile development using React Native, experienced in Firebase integration and crash/performance monitoring, and web development with ReactJS and NextJS.
+
+I have created and published an e-commerce app using React Native from scratch with more than 5000 users. I also have experience with backend development using NodeJS along with the framework NestJS.
 
 ## 🛠️ Skills
 
