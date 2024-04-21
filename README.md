@@ -8,11 +8,7 @@
 
 ## Summary
 
-Mobile Engineer/Frontend Developer with more than 2 years of hands-on experience in web and mobile development with ReactJS and React Native, and integration with Firebase and crash/performance monitoring.
-
-I have created and published an e-commerce app from scratch with more than 5000 users. I also have experience with backend development with NestJS, databases such as PostgreSQL and MongoDB and with the message broker software RabbitMQ.
-
-I am very passionate about Mobile Development and I am always looking forward to learn something new.
+Mobile and Frontend Developer with more than 2 years of hands-on experience in mobile development using React Native, experienced in Firebase integration and crash/performance monitoring, and web development with ReactJS and NextJS. I have created and published an e-commerce app using React Native from scratch with more than 5000 users. I also have experience with backend development using NodeJS along with the framework NestJS.
 
 ## 🛠️ Skills
 
