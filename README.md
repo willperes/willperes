@@ -8,23 +8,18 @@
 
 ## Summary
 
-Mobile and Frontend Developer with more than 2 years of hands-on experience in mobile development using React Native, experienced in Firebase integration and crash/performance monitoring, and web development with ReactJS and NextJS.
+I’m a software engineer with 4+ years of experience building web and mobile applications across different business domains.
 
-I have created and published an e-commerce app using React Native from scratch with more than 5000 users. I also have experience with backend development using NodeJS along with the framework NestJS.
+Throughout my career, I’ve worked on systems that support real operational workflows, including e-commerce platforms, digital wallets, credit request systems, and B2B marketplaces. I’ve contributed to high-value transaction flows, financial processes, and integrations with external services, helping businesses operate more efficiently and reliably.
+
+My background combines strong frontend expertise in React, React Native, and Next.js with backend experience using Java (Spring) and Node.js. I’ve worked with APIs, microservices, and distributed architectures, focusing on clear design, maintainable code, and practical solutions to complex business problems.
 
 ## 🛠️ Skills
 
-![My Skills](https://skillicons.dev/icons?i=ts,react,swift,dart,flutter,jest,nodejs,nestjs,postgres,rabbitmq)
+![My Skills](https://skillicons.dev/icons?i=ts,react,java,spring,jest,nodejs,nestjs,postgres,mongodb,rabbitmq)
 
 ## 📫 Let's Connect
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/willian-peres-de-oliveira/) to learn more about my work and stay updated with my latest projects.
 
 Thanks for visiting my GitHub profile!
-
-<br>
-
-<div align='center'>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willperes&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-</div>
